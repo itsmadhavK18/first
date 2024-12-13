@@ -1,3 +1,3 @@
 # first
 My first repo <br>
-Author - Madhav Kumar
+Author - Madhav Kumar(CMRit)
